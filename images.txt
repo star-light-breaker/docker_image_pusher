@@ -1,5 +1,4 @@
---platform=linux anaconda
---platform=linux python
+python
 
 #nginx
 #支持私库
