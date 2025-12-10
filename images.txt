@@ -1,4 +1,4 @@
-anaconda
+anaconda3
 
 #nginx
 #支持私库
