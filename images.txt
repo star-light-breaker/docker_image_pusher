@@ -1,4 +1,4 @@
---platform=linux anaconda3
+--platform=linux anaconda
 --platform=linux python
 
 #nginx
